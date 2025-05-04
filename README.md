@@ -23,8 +23,6 @@ The following **optional** features are implemented:
 
 ### Here's a walkthrough of implemented features:
 
-### Here's a walkthrough of implemented features:
-
 ![Walkthrough](assets/SeaMonster.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
